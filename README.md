@@ -47,7 +47,7 @@ Select multiple frames to convert them to a video.
 # <div id="install">Install on Windows</div>
 
 
-1. Download the setup in the "Releases" section on the right.
+1. Download the setup in the <a href="https://github.com/kenjibailly/Deep_Dream_GUI/releases/tag/v1.0.0">Releases</a> section on the right.
 2. Run the setup and install the software.
 3. Run the app and wait a moment.
 
