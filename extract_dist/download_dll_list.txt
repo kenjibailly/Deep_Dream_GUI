@@ -1,0 +1,9 @@
+cublas64_11.dll
+cublasLt64_11.dll
+cudart64_110.dll
+cudnn64_8.dll
+cufft64_10.dll
+curand64_10.dll
+cusolver64_11.dll
+cusparse64_11.dll
+nvcuda.dll
